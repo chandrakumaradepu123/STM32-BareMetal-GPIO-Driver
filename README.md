@@ -1,0 +1,1 @@
+In the main file i was created case 1, case2, case3 are the threee different cases for checking the gpio driver. please check it out when you are compiling this. this is my 1st own device drver developement please let me know if i make any mistakes or improvements need in the development
